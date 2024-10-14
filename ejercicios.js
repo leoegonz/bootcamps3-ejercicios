@@ -108,6 +108,7 @@ module.exports = {
     logAge,
     logVersion,
 };
+
 compareTenAndNine();
 compareZeroAndZero();
 compareSeven();
